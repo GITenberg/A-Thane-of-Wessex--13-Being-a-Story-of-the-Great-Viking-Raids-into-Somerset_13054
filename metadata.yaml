@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4801
     wikipedia: http://en.wikipedia.org/wiki/Charles_W._Whistler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13054#A-Thane-of-Wessex--13-Being-a-Story-of-the-Great-Viking-Raids-into-Somerset
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
